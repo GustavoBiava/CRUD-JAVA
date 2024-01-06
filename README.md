@@ -1,3 +1,3 @@
 # Sistema-funoes-basicas-BD-JAVA
-Sistema em JAVA conectado ao banco de dados através do JDBC, que realiza as funcoes básicas de um banco de dados ( Cadastro, consulta, alteração e exclusão).
-Sistema organizado no padrão MVC.
+CRUD executado diretamente do terminal do JAVA (conectado a um banco de dados utilizando o JDBC). Construção do CRUD conduzida na aula de Lógica de Programação, matéria do Ensino Médio Técnico em Informática da Escola CEDUP - Abílio Paulo.
+
